@@ -1,6 +1,6 @@
 {
   "name": "hubot-backlog-status",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A Hubot script that display backlog status",
   "main": "index.js",
   "scripts": {
