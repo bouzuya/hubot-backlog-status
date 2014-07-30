@@ -1,0 +1,39 @@
+{
+  "name": "hubot-backlog-status",
+  "version": "0.0.0",
+  "description": "A Hubot script that display backlog status",
+  "main": "index.js",
+  "scripts": {
+    "robot": "hubot --adapter shell",
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bouzuya/hubot-backlog-status.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "author": {
+    "name": "bouzuya",
+    "mail": "m@bouzuya.net",
+    "url": "http://bouzuya.net"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bouzuya/hubot-backlog-status/issues"
+  },
+  "homepage": "https://github.com/bouzuya/hubot-backlog-status",
+  "devDependencies": {
+    "coffee-script": "^1.7.1",
+    "espower-coffee": "^0.1.0",
+    "hubot": "^2.8.0",
+    "mocha": "^1.20.1",
+    "power-assert": "^0.7.2",
+    "sinon": "^1.10.3"
+  },
+  "dependencies": {
+    "q": "^1.0.1"
+  }
+}
